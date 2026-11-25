@@ -12,7 +12,7 @@ Backend engineer with 5+ years building scalable distributed systems for airline
 
 ## Projects
 
-Each repository below holds the design documentation (high-level design, low-level design, key flows) and a demo video. Application source code is kept private.
+Each repository below holds the design documentation (high-level design, low-level design, key flows) and a demo video. The full source code is private because these are personal projects; I am happy to walk through it or discuss it on request.
 
 | Project | What it is | Stack |
 |---|---|---|
