@@ -23,7 +23,6 @@ Each repository below holds the design documentation (high-level design, low-lev
 | [Party Games](https://github.com/srajan1234/party-games-design) | Real-time multiplayer party games with a server-authoritative backend | Java 17, Spring Boot, SSE, PostgreSQL |
 | [SnapAds Pro](https://github.com/srajan1234/snapads-pro-design) | Campaign manager for the Snapchat Marketing API | Java 17, Spring Boot, PostgreSQL, React |
 | [Trading Assistant](https://github.com/srajan1234/trading-assistant-design) | Browser-based market scanner with a shared indicator engine | Node.js, Express, JavaScript |
-| [IAG Cargo Portal](https://github.com/srajan1234/iag-cargo-portal-design) | Sanitized case study: legacy cargo portal to serverless AWS microservices | Java 21, AWS Lambda, API Gateway, DynamoDB |
 
 ## Skills
 
